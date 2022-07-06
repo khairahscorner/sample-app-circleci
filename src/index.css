@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500&display=swap');
+@font-face {
+	font-family: "Gropled";
+	src: local("Gropled"),
+	 url("./assets/fonts/Gropled-Bold.otf") format("truetype");
+	}
+
+* {
+	box-sizing: border-box;
+	font-family: 'Manrope', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	background-color: #fffdfd;
+	color: #4e3635;
+	font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	margin: 0;
+}
+h1,
+h2,
+h3{
+	font-family: 'Gropled', sans-serif;
+	letter-spacing: 0.5px;
+}
+ul {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color:  #4e3635;
+}
+
+:focus {
+	outline: rgba(247, 247, 247, 0.589) 1px;
+}
+
+.slick-list, .slick-track {
+	height: 6rem !important;
+}
+.each-slide {
+	width: 48px;
+	height: 48px;
+}
+.each-slide a {
+	width: 100%;
+}
+.each-slide a img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}

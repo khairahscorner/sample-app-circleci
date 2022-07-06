@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: minikube-react-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: minikube-react-app
+  template:
+    metadata:
+      labels:
+        app: minikube-react-app
+    spec:
+      containers:
+      - name: minikube-react-app
+        image: 178472627685.dkr.ecr.us-east-1.amazonaws.com/sample-react-app
+        imagePullPolicy: Always
+        command: ["npm", "start"]
+        ports:
+        - containerPort: 3000

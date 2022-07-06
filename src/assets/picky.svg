@@ -1,0 +1,408 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 150 187" style="border: 1px solid #4e3635;border-radius: 50%;">
+    <defs>
+        <path id="s77s4yrjxa" d="M42.651.364V15.122c-.034 6.49-1.578 14.314 10.917 17.099l.074.472c.952 6.468-.57 13.383-4.571 20.748l.001-.001H7.123L.883 30.55l.508-.003c16.575-.164 14.833-8.438 14.936-15.629L16.434.364h26.217z"/>
+        <path id="w4onqcp8ad" d="M16.434.364l-.107 14.554C16.223 22.182 18.001 30.55.883 30.55l6.24 22.891h41.948c4.098-7.545 5.596-14.617 4.497-21.22-12.627-2.814-10.917-10.774-10.917-17.303V.364H16.434z"/>
+        <path id="v4auqawygg" d="M.381 11.825s-.765 7.488 8.498 7.488C21.092 19.313 26.65.986 26.65.986L.381 11.825z"/>
+        <path id="db2jlghxci" d="M50.001.58v24.983c.247-.045 8.601-1.53 9.783 5.297l.048.322c.844 6.71-8.781 9.947-8.781 9.947l-.01.16c-.356 3.892-9.437 15.78-16.874 20.553l-.264.166c-7.529 4.626-18.174 2.528-26.185-7.594l-.28-.363C-.361 43.595.74 19.295.74 9.95L.685.58h49.316z"/>
+        <path id="ioc4voqz7l" d="M.685.58l.054 9.37c0 9.455-1.128 34.219 6.979 44.464 8.105 10.241 18.907 12.268 26.449 7.428 7.542-4.841 16.774-16.997 16.884-20.713 0 0 9.933-3.341 8.733-10.269-1.199-6.928-9.783-5.297-9.783-5.297V.58H.685z"/>
+        <path id="ai1dt5xapo" d="M.228 2.526v1.5c0 .966.784 1.75 1.75 1.75.967 0 1.75-.784 1.75-1.75v-1.5c0-.967-.783-1.75-1.75-1.75-.966 0-1.75.783-1.75 1.75z"/>
+        <path id="bcpe2t0mvq" d="M2.374.44C1.417.574.751 1.46.885 2.416l.209 1.486c.135.957 1.019 1.624 1.976 1.489.958-.134 1.625-1.019 1.49-1.977l-.209-1.485C4.228 1.054 3.479.423 2.62.423c-.081 0-.163.005-.246.017z"/>
+        <path id="60hjvwu1vs" d="M.605 2.169c0 .77.625 1.395 1.395 1.395.201 0 .392-.043.564-.119l-.004-.031-.209-1.485c-.065-.461-.303-.855-.644-1.125-.63.135-1.102.694-1.102 1.365z"/>
+        <path id="sikkfz5cru" d="M11.361 1.919L1.17 12.944.111 38.905s2.31-13.859 6.876-20.378c0 0 11.588 15.265 25.98 17.093 14.392 1.822 17.398 6.763 17.398 6.763.335-1.553 1.97-2.247 4.908-2.079.054.003.693-.251.746-.262 1.019-12.727.265-26.075-2.262-40.045L11.361 1.919z"/>
+        <path id="mmuqtw2d3w" d="M32.813.645C29.968.546 21.565.312 17.246 8.301 15.175 12.129 6.626 26.97.821 44.553l12.216 7.653c-1.17 5.381-2.317 10.767-3.421 15.927l-.413 1.922 97.316.002c4.703-12.567 13.393-36.115 14.483-47.261 1.43-14.627-29.435-20.573-29.435-20.573S81.002 6.772 62.709 6.772c-16.254 0-23.824-6.22-23.824-6.22s-3.225.196-6.072.093z"/>
+        <path id="7rl8tzm4ny" d="M23.785 0.567L23.785 0.568 8.976 28.055 0.096 28.055z"/>
+        <path id="djppwd5otB" d="M0.096 28.055L8.976 28.055 23.785 0.567 23.785 0.567z"/>
+        <path id="tzgjaxxyuE" d="M1.548 9.773c.987 2.115 4.439 4.268 4.439 4.268l13.738 8.92 4.375 6.983 24.621 3.025L.606.513s-.044 7.145.942 9.26z"/>
+        <path id="3bb64kj7aG" d="M.006 2.267c-.202 3.271 5.026 14.349 5.026 14.349l44.689 24.353L1.34.257S.109.574.006 2.267z"/>
+        <path id="m6uimy4dpI" d="M1.578 4.546l5.171.722c.813-.234 1.242-.576 1.286-1.025.065-.675-.409-.985-.914-1.312-.503-.327-1.112-.554-1.112-.554l.024-1.61L.879.215l.699 4.331z"/>
+        <path id="pluccp4dbK" d="M.978 1.268L.071 2.359l3.53 5.375s4.869.587 5.408.644c.539.056 1.158-1.043 1.158-1.043S7.708 1.338 5.569.828c-.452-.107-.918-.15-1.372-.15-1.694 0-3.219.59-3.219.59z"/>
+        <path id="vm3sw4g9vM" d="M1.112 5.559c-.322.801-1.539 4.714-.096 7.168 1.442 2.454 6.69 9.586 6.69 9.586l41.011 28.651c-.292-.255-14.458-13.265-16.893-17.762-2.288-4.23-3.153-12.004-6.062-16.384-2.611-3.935-5.844-3.828-10.247-8.968-2.488-2.906-4.27-5.036-5.848-4.02-1.578 1.015.092 5.335 1.231 6.531 1.14 1.193 4.413 4.757 4.856 5.476.444.72 2.687 4.063 2.763 4.294.075.231.072.656-.966.398s-2.798-.631-3.426-1.144c-.628-.511-1.116-.571-3.568-2.863-2.923-3.334-4.293-5.214-4.494-5.69-.203-.477-1.323-2.621-.349-4.373.751-1.544 1.477-2.435 1.607-3.455.13-1.02-.083-2.515-1.523-2.548-1.92.067-4.362 4.303-4.686 5.103z"/>
+        <path id="wxp23v4aqO" d="M6.447 0.337L2.037 18.205 2.035 18.205 0.184 17.038z"/>
+        <path id="8genagqmlR" d="M0.184 17.038L2.037 18.206 6.447 0.337z"/>
+        <path id="xop3oalmzU" d="M1.55.254l.148.005c1.28.076 3.668 1.098 6.166 2.72l.301.198c3.165 2.118 4.886 4.258 4.886 5.063l-.233 1.093-.165-.046c-1.454-.434-4.808-2.056-6.738-3.309l-.256-.168C2.443 3.674.286 1.338.81.53c.122-.188.377-.277.74-.277z"/>
+        <path id="qtjvtigi6X" d="M.81.531c-.538.828 1.748 3.267 5.105 5.447 2.007 1.303 5.555 3.005 6.903 3.355l.233-1.093c0-.83-1.83-3.08-5.187-5.261C5.266 1.293 2.788.254 1.55.254c-.362 0-.619.089-.74.277"/>
+        <path id="nh8y7tddqaa" d="M5.014.885l.344.15c1.05.469 2.255 1.129 3.506 1.944l.308.204c3.233 2.168 4.879 4.23 4.879 5.057l-.027.131-.101.484-.092.447-.034.165-3.587 16.589H.453L4.988.885l.022.023.004-.023z"/>
+        <path id="0qy4fs3jvad" d="M5.01.908L4.988.885.453 26.056h9.757l3.587-16.589.034-.165.092-.447.128-.615c0-.852-1.751-3.019-5.187-5.261-1.39-.906-2.723-1.62-3.85-2.094L5.01.908z"/>
+        <path id="kjrup7620ag" d="M3.221.97l.222.004c3.54.12 9.85 3.082 16.21 7.864l.346.262c8.261 6.298 13.432 13.312 11.586 15.77l-.08.1c-2.022 2.301-10.287-.84-18.633-7.116l-.346-.262C4.264 11.296-.909 4.28.937 1.823 1.373 1.244 2.161.97 3.221.97z"/>
+        <path id="kb00acee6aj" d="M.937 1.823c-1.872 2.491 3.472 9.669 11.935 16.031 8.462 6.364 16.841 9.504 18.713 7.016 1.872-2.492-3.47-9.668-11.932-16.032C13.158 3.954 6.714.969 3.221.969c-1.06 0-1.848.275-2.284.854"/>
+        <path id="7x46w0u9ram" d="M9.645.67l.133.004c.634.04 1.46.364 2.736.986l.228.242c7.19 7.634 11.317 12.232 28.305 26.664l.215.177c3.38 2.772 7.135 5.565 8.923 3.927l.069-.067c.589-.603 2.592-3.194 3.275-3.93l.01-.017c.022-.03.069-.087.067-.09l.355-.387c1.563-1.711 3.396-3.811 4.639-5.244l.399.149c3.356 1.282 7.492 3.625 11.653 6.753l.566.43c3.366 2.59 6.2 5.29 8.243 7.74l-.57.601-.008.01c-.22.256-4.971 5.786-5.282 6.161l-.011.011-.315.375c-4.557 5.386-11.02 10.995-13.713 13.555l-.116.108c-3.896 3.552-15.583 7.053-25.005-4.722l-.401-.502C24.427 41.59 6.877 19.727.729 8.854 7.538 3.558 7.701.669 9.645.67z"/>
+        <path id="sifm4ggyqap" d="M.729 8.854C6.964 19.88 24.924 42.208 34.441 54.106 43.958 66 55.786 62.308 59.562 58.72c2.756-2.62 9.459-8.431 14.028-13.93l.011-.011c.318-.384 5.29-6.171 5.29-6.171l.57-.601c-2.157-2.587-5.194-5.451-8.809-8.17-4.327-3.253-8.628-5.657-12.052-6.902-1.339 1.543-3.361 3.86-4.994 5.631.002.004-.081.104-.077.107-.713.768-2.863 3.556-3.344 3.997-1.826 1.673-5.703-1.276-9.138-4.104C23.88 13.982 19.847 9.44 12.514 1.66 11.147.994 10.296.67 9.645.67 7.701.669 7.539 3.557.729 8.854"/>
+        <path id="6dszfhy6zas" d="M3.968.915v4.527c0 1.467-3.065 1.467-3.065 5.237l.001 10.522.003.113c.09 1.795 1.802 3.998 5.67 3.998s5.674-2.263 5.674-4.111V10.679c0-3.77-3.278-3.77-3.278-5.346V.915H3.968z"/>
+        <path id="okkisbf2jau" d="M3.968.915v4.527c0 1.467-3.065 1.467-3.065 5.237l.001 10.522.003.113c.09 1.795 1.802 3.998 5.67 3.998s5.674-2.263 5.674-4.111V10.679c0-3.77-3.278-3.77-3.278-5.346V.915H3.968z"/>
+        <path id="6y8joy8tjaw" d="M.441.752v14.752c0 .626.509 1.135 1.135 1.135.627 0 1.135-.509 1.135-1.135V.752H.441z"/>
+        <path id="ipjws0apjay" d="M.441.752v14.752c0 .626.509 1.135 1.135 1.135.627 0 1.135-.509 1.135-1.135V.752H.441z"/>
+        <path id="ubynka0saaA" d="M.038 2.844c0 1.41 2.032 2.553 4.538 2.553 2.508 0 4.54-1.143 4.54-2.553S7.084.29 4.576.29C2.07.29.038 1.434.038 2.844z"/>
+        <path id="nrscpa49jaC" d="M.441.021v5.106c0 .313.509.568 1.135.568.627 0 1.135-.255 1.135-.568V.021H.441z"/>
+        <path id="2jykjtsd8aE" d="M.441.021v5.106c0 .313.509.568 1.135.568.627 0 1.135-.255 1.135-.568V.021H.441z"/>
+        <path id="72fiy0dkbaG" d="M.889.482v3.404c0 .94 1.651 1.703 3.687 1.703 2.037 0 3.688-.763 3.688-1.703V.482H.889z"/>
+        <path id="lfk2546wlaI" d="M.889.482v3.404c0 .94 1.651 1.703 3.687 1.703 2.037 0 3.688-.763 3.688-1.703V.482H.889z"/>
+        <path id="9gknolo50aK" d="M.889 2.482c0 .94 1.651 1.702 3.687 1.702 2.037 0 3.688-.762 3.688-1.702S6.613.78 4.576.78C2.54.78.889 1.542.889 2.482"/>
+        <path id="trediobc1aM" d="M.889 2.482c0 .94 1.651 1.702 3.687 1.702 2.037 0 3.688-.762 3.688-1.702S6.613.78 4.576.78C2.54.78.889 1.542.889 2.482z"/>
+        <path id="4kuie99oeaO" d="M.441 2.077v2.836c0 .314.509.569 1.135.569.627 0 1.135-.255 1.135-.569V2.077c0-.626-.508-1.135-1.135-1.135C.95.942.441 1.451.441 2.077"/>
+        <path id="meek2damgaQ" d="M.441 2.077v2.836c0 .314.509.569 1.135.569.627 0 1.135-.255 1.135-.569V2.077c0-.626-.508-1.135-1.135-1.135C.95.942.441 1.451.441 2.077z"/>
+        <path id="67w6n98g7aS" d="M4.576 3.397C2.15 3.397.169 2.321.044.967L.038.844v10.019c0 .346.079.689.233 1 .687 1.399 2.123 2.098 4.305 2.098 2.184 0 3.619-.699 4.306-2.098.154-.311.234-.654.234-1V.844c-.013 1.411-2.04 2.553-4.54 2.553z"/>
+        <path id="azsbh25b3aU" d="M.667.83C-.911 1.845.759 6.165 1.898 7.361c1.14 1.193 4.413 4.757 4.856 5.476.155.252-.035-.516.163-1.285.369-1.429 2.08-2.858 9.845 2.266C14.151 9.883 10.918 9.99 6.515 4.85 4.457 2.446 2.882.573 1.506.573 1.218.573.94.655.667.83z"/>
+        <linearGradient id="m3usasmcsb" x1="0%" x2="0%" y1="0%" y2="1929.309%">
+            <stop offset="0%" stop-color="#FAD1B0"/>
+            <stop offset="100%" stop-color="#FBE6D7"/>
+        </linearGradient>
+        <linearGradient id="vcgw1f4pde" x1="44.555%" x2="44.555%" y1="83.1%" y2="16.429%">
+            <stop offset="0%" stop-color="#FAD1B0"/>
+            <stop offset="100%" stop-color="#FBE6D7"/>
+        </linearGradient>
+        <linearGradient id="7eemp3a5oj" x1="1.75%" x2="1.75%" y1="0%" y2="1549.144%">
+            <stop offset="0%" stop-color="#FAD1B0"/>
+            <stop offset="100%" stop-color="#FBE6D7"/>
+        </linearGradient>
+        <linearGradient id="znrvl9u5rm" x1="12.93%" x2="33.735%" y1="-18.789%" y2="68.148%">
+            <stop offset="0%" stop-color="#FAD1B0"/>
+            <stop offset="100%" stop-color="#FBE6D7"/>
+        </linearGradient>
+        <linearGradient id="2ikde4x1xz" x1="0%" x2="0%" y1=".001%" y2="3724.992%">
+            <stop offset="0%" stop-color="#EDECEC"/>
+            <stop offset="100%" stop-color="#EAEAEA"/>
+        </linearGradient>
+        <linearGradient id="5pzcun3svC" x1="22.56%" x2="82.087%" y1="95.091%" y2="5.557%">
+            <stop offset="0%" stop-color="#EDECEC"/>
+            <stop offset="100%" stop-color="#EAEAEA"/>
+        </linearGradient>
+        <linearGradient id="901225jodP" x1=".001%" x2=".001%" y1="0%" y2="5730.916%">
+            <stop offset="0%" stop-color="#EDECEC"/>
+            <stop offset="100%" stop-color="#EAEAEA"/>
+        </linearGradient>
+        <linearGradient id="79kzxh4ckS" x1="45.461%" x2="55.308%" y1="95.087%" y2="5.563%">
+            <stop offset="0%" stop-color="#EDECEC"/>
+            <stop offset="100%" stop-color="#EAEAEA"/>
+        </linearGradient>
+        <linearGradient id="xnulksgzsV" x1="3.594%" x2="3.594%" y1="5.726%" y2="10638.059%">
+            <stop offset="0%" stop-color="#4278BB"/>
+            <stop offset="100%" stop-color="#304F75"/>
+        </linearGradient>
+        <linearGradient id="3l6lzrze2Y" x1="53.786%" x2="44.389%" y1="31.965%" y2="64.177%">
+            <stop offset="0%" stop-color="#4278BB"/>
+            <stop offset="100%" stop-color="#304F75"/>
+        </linearGradient>
+        <linearGradient id="ycindh1vlab" x1="0%" x2="0%" y1="0%" y2="4068.174%">
+            <stop offset="0%" stop-color="#FAD1B0"/>
+            <stop offset="100%" stop-color="#FBE6D7"/>
+        </linearGradient>
+        <linearGradient id="jwaivmc6aae" x1="52.816%" x2="47.592%" y1="-16.223%" y2="68.32%">
+            <stop offset="0%" stop-color="#FAD1B0"/>
+            <stop offset="100%" stop-color="#FBE6D7"/>
+        </linearGradient>
+        <linearGradient id="lygasiom4ah" x1="4.358%" x2="4.358%" y1="5.838%" y2="3659.849%">
+            <stop offset="0%" stop-color="#304F75"/>
+            <stop offset="100%" stop-color="#4278BB"/>
+        </linearGradient>
+        <linearGradient id="ewvnloxmeak" x1="53.79%" x2="44.393%" y1="29.356%" y2="66.226%">
+            <stop offset="0%" stop-color="#304F75"/>
+            <stop offset="100%" stop-color="#4278BB"/>
+        </linearGradient>
+        <linearGradient id="tri9vhwk3an" x1="0%" x2="0%" y1="2.485%" y2="1530.957%">
+            <stop offset="0%" stop-color="#FAD1B0"/>
+            <stop offset="100%" stop-color="#FBE6D7"/>
+        </linearGradient>
+        <linearGradient id="knbdu0fgeaq" x1="113.189%" x2="37.312%" y1="43.091%" y2="63.356%">
+            <stop offset="0%" stop-color="#FAD1B0"/>
+            <stop offset="100%" stop-color="#FBE6D7"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g fill="#FF6A74">
+                    <path d="M97.262 140.625c13.744 0 32.954-34.538 17.301-52.44-15.653-17.902-19.355-22.981-19.942-30.65-.587-7.67 6.87-18.972-1.224-35.565C89.271 13.51 72.093.041 49.957 1.023c-20.215.897-25.97 13.448-28.174 14.783-2.203 1.336-13.436 8.179-13.619 16.39-.23 10.338 7.732 15.478 7.732 34.343 0 18.865-15.742 26.409-15.742 45.339 0 18.927 25.197 25.195 25.197 25.195l62.627 2.2 15.155.532" transform="translate(-645 -261) translate(645.5 261) translate(28 .148)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(53 66.148)">
+                    <mask id="n3vudm942c" fill="#fff">
+                        <use xlink:href="#s77s4yrjxa"/>
+                    </mask>
+                    <path fill="url(#m3usasmcsb)" d="M0.883 53.44L54.668 53.44 54.668 0.364 0.883 0.364z" mask="url(#n3vudm942c)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(53 66.148)">
+                    <mask id="rz2m9i8nef" fill="#fff">
+                        <use xlink:href="#w4onqcp8ad"/>
+                    </mask>
+                    <path fill="url(#vcgw1f4pde)" d="M16.434.364l-.107 14.554C16.223 22.182 18.001 30.55.883 30.55l6.24 22.891h41.948c4.098-7.545 5.596-14.617 4.497-21.22-12.627-2.814-10.917-10.774-10.917-17.303V.364H16.434z" mask="url(#rz2m9i8nef)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(69 72.148)">
+                    <mask id="3yhooth46h" fill="#fff">
+                        <use xlink:href="#v4auqawygg"/>
+                    </mask>
+                    <path fill="#F1C2A2" d="M-4.635 24.313L31.65 24.313 31.65 -4.015 -4.635 -4.015z" mask="url(#3yhooth46h)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(51 21.148)">
+                    <mask id="7vb858gork" fill="#fff">
+                        <use xlink:href="#db2jlghxci"/>
+                    </mask>
+                    <path fill="url(#7eemp3a5oj)" d="M-0.389 66.681L60.984 66.681 60.984 0.58 -0.389 0.58z" mask="url(#7vb858gork)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(51 21.148)">
+                    <mask id="odmim5yc7n" fill="#fff">
+                        <use xlink:href="#ioc4voqz7l"/>
+                    </mask>
+                    <path fill="url(#znrvl9u5rm)" d="M.685.58l.054 9.37c0 9.455-1.128 34.219 6.979 44.464 8.105 10.241 18.907 12.268 26.449 7.428 7.542-4.841 16.774-16.997 16.884-20.713 0 0 9.933-3.341 8.733-10.269-1.199-6.928-9.783-5.297-9.783-5.297V.58H.685z" mask="url(#odmim5yc7n)"/>
+                </g>
+                <g stroke-linecap="round">
+                    <path stroke="#4A4A4A" d="M11.375 1.633s3.018-1.896 7.205.355" transform="translate(-645 -261) translate(645.5 261) translate(64 35.148)"/>
+                    <path stroke="#EC6975" stroke-width=".8" d="M1.742 13.503c-.08 8.698-4.623 10.24 3.058 12.425M4.8 37.485c7.27 1.17 12.485 0 17.305-7.879" transform="translate(-645 -261) translate(645.5 261) translate(64 35.148)"/>
+                    <path stroke="#EC6975" stroke-linejoin="round" stroke-width=".8" d="M40.238 16.417L38.828 18.674 41.085 20.084" transform="translate(-645 -261) translate(645.5 261) translate(64 35.148)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(77 45.148)">
+                    <mask id="bymee4qicp" fill="#fff">
+                        <use xlink:href="#ai1dt5xapo"/>
+                    </mask>
+                    <path fill="#4A4A4A" d="M-4.772 10.776L8.728 10.776 8.728 -4.224 -4.772 -4.224z" mask="url(#bymee4qicp)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(55 47.148)">
+                    <mask id="adh3z8zpdr" fill="#fff">
+                        <use xlink:href="#bcpe2t0mvq"/>
+                    </mask>
+                    <path fill="#4A4A4A" d="M-5.005 -3.572L8.364 -5.451 10.45 9.403 -2.917 11.282z" mask="url(#adh3z8zpdr)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(57 47.148)">
+                    <mask id="i270l3gmqt" fill="#fff">
+                        <use xlink:href="#60hjvwu1vs"/>
+                    </mask>
+                    <path fill="#4A4A4A" d="M-4.395 8.564L7.564 8.564 7.564 -4.196 -4.395 -4.196z" mask="url(#i270l3gmqt)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(49 6.148)">
+                    <mask id="ryv4o7d24v" fill="#fff">
+                        <use xlink:href="#sikkfz5cru"/>
+                    </mask>
+                    <path fill="#FF6A74" d="M-4.889 47.384L61.459 47.384 61.459 -5.003 -4.889 -5.003z" mask="url(#ryv4o7d24v)"/>
+                </g>
+                <g stroke-linecap="round">
+                    <path stroke="#F6BDCA" stroke-width=".8" d="M48.387 14.386c4.252-7.083 21.892 4.688 2.491 13.864-.97 3.764-3.765 8.207-8.386 13.328M.929.192c.278 11.43-3.124 40.207 17.089 49.823 7.505 2.587 14.26 1.156 20.265-4.295" transform="translate(-645 -261) translate(645.5 261) translate(51 34.148)"/>
+                    <path stroke="#4A4A4A" d="M7.546 4.765S3.943 3.337.341 5.12M24.375 2.633s3.018-1.896 7.205.355" transform="translate(-645 -261) translate(645.5 261) translate(51 34.148)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(15 96.148)">
+                    <mask id="5ymgdq8nex" fill="#fff">
+                        <use xlink:href="#mmuqtw2d3w"/>
+                    </mask>
+                    <path fill="#FEFEFE" d="M-4.179 75.058L126.05 75.058 126.05 -4.448 -4.179 -4.448z" mask="url(#5ymgdq8nex)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(105 138.148)">
+                    <mask id="iy37jyhwrA" fill="#fff">
+                        <use xlink:href="#7rl8tzm4ny"/>
+                    </mask>
+                    <path fill="url(#2ikde4x1xz)" d="M0.096 28.055L23.785 28.055 23.785 0.565 0.096 0.565z" mask="url(#iy37jyhwrA)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(105 138.148)">
+                    <mask id="vc9fj2t63D" fill="#fff">
+                        <use xlink:href="#djppwd5otB"/>
+                    </mask>
+                    <path fill="url(#5pzcun3svC)" d="M0.096 28.055L8.976 28.055 23.785 0.567 23.785 0.567z" mask="url(#vc9fj2t63D)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(1 109.148)">
+                    <mask id="dracuxc80F" fill="#fff">
+                        <use xlink:href="#tzgjaxxyuE"/>
+                    </mask>
+                    <path fill="#FCE5D7" d="M-4.394 37.969L53.721 37.969 53.721 -4.487 -4.394 -4.487z" mask="url(#dracuxc80F)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(0 101.148)">
+                    <mask id="8dvt4rxx6H" fill="#fff">
+                        <use xlink:href="#3bb64kj7aG"/>
+                    </mask>
+                    <path fill="#FCE5D7" d="M-5 45.968L54.721 45.968 54.721 -4.743 -5 -4.743z" mask="url(#8dvt4rxx6H)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(8 103.148)">
+                    <mask id="ga1pt53pnJ" fill="#fff">
+                        <use xlink:href="#m6uimy4dpI"/>
+                    </mask>
+                    <path fill="#FCE5D7" d="M-4.121 10.268L13.041 10.268 13.041 -4.785 -4.121 -4.785z" mask="url(#ga1pt53pnJ)"/>
+                </g>
+                <g stroke="#F6BDCA" stroke-width=".5">
+                    <path stroke-linecap="round" d="M1.34.257S.11.574.006 2.267c-.201 3.272 5.026 14.349 5.026 14.349" transform="translate(-645 -261) translate(645.5 261) translate(0 101.148)"/>
+                    <path d="M14.01 4.378s.757.216 1.391.707c.632.492.684 1.085.548 1.447-.135.362-.678.689-1.257.696-.579.006-5.114-.681-5.114-.681" transform="translate(-645 -261) translate(645.5 261) translate(0 101.148)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(5 97.148)">
+                    <mask id="4vfombnywL" fill="#fff">
+                        <use xlink:href="#pluccp4dbK"/>
+                    </mask>
+                    <path fill="#FCE5D7" d="M-4.929 13.38L15.167 13.38 15.167 -4.322 -4.929 -4.322z" mask="url(#4vfombnywL)"/>
+                </g>
+                <g stroke="#F6BDCA" stroke-width=".5">
+                    <path d="M.978 1.268S3.43.32 5.57.83c2.14.508 4.598 6.506 4.598 6.506s-.619 1.1-1.158 1.043C8.47 8.32 3.6 7.734 3.6 7.734L.071 2.36l.907-1.09z" transform="translate(-645 -261) translate(645.5 261) translate(5 97.148)"/>
+                    <path stroke-linecap="round" d="M3.032 4.218s-.286 2.13-.453 3.083" transform="translate(-645 -261) translate(645.5 261) translate(5 97.148)"/>
+                    <path d="M2.966 5.242s3.417-.985 7.48 1.537" transform="translate(-645 -261) translate(645.5 261) translate(5 97.148)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(1 91.148)">
+                    <mask id="qxv1z2j56N" fill="#fff">
+                        <use xlink:href="#vm3sw4g9vM"/>
+                    </mask>
+                    <path fill="#FCE5D7" d="M-4.674 55.969L53.722 55.969 53.722 -4.543 -4.674 -4.543z" mask="url(#qxv1z2j56N)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(26 130.148)">
+                    <mask id="utsv47s34Q" fill="#fff">
+                        <use xlink:href="#wxp23v4aqO"/>
+                    </mask>
+                    <path fill="url(#901225jodP)" d="M0.184 18.205L6.447 18.205 6.447 0.337 0.184 0.337z" mask="url(#utsv47s34Q)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(26 130.148)">
+                    <mask id="wmznwbz5fT" fill="#fff">
+                        <use xlink:href="#8genagqmlR"/>
+                    </mask>
+                    <path fill="url(#79kzxh4ckS)" d="M0.184 17.038L2.037 18.206 6.447 0.337z" mask="url(#wmznwbz5fT)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(15 140.148)">
+                    <mask id="equm1gdk6W" fill="#fff">
+                        <use xlink:href="#xop3oalmzU"/>
+                    </mask>
+                    <path fill="url(#xnulksgzsV)" d="M0.272 9.334L13.051 9.334 13.051 -0.297 0.272 -0.297z" mask="url(#equm1gdk6W)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(15 140.148)">
+                    <mask id="s5ootittaZ" fill="#fff">
+                        <use xlink:href="#qtjvtigi6X"/>
+                    </mask>
+                    <path fill="url(#3l6lzrze2Y)" d="M.81.531c-.538.828 1.748 3.267 5.105 5.447 2.007 1.303 5.555 3.005 6.903 3.355l.233-1.093c0-.83-1.83-3.08-5.187-5.261C5.266 1.293 2.788.254 1.55.254c-.362 0-.619.089-.74.277" mask="url(#s5ootittaZ)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(14 140.148)">
+                    <mask id="sqi3opiasac" fill="#fff">
+                        <use xlink:href="#nh8y7tddqaa"/>
+                    </mask>
+                    <path fill="url(#ycindh1vlab)" d="M0.452 26.056L14.051 26.056 14.051 0.885 0.452 0.885z" mask="url(#sqi3opiasac)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(14 140.148)">
+                    <mask id="v3etjiyc3af" fill="#fff">
+                        <use xlink:href="#0qy4fs3jvad"/>
+                    </mask>
+                    <path fill="url(#jwaivmc6aae)" d="M5.01.908L4.988.885.453 26.056h9.757l3.587-16.589.034-.165.092-.447.128-.615c0-.852-1.751-3.019-5.187-5.261-1.39-.906-2.723-1.62-3.85-2.094L5.01.908z" mask="url(#v3etjiyc3af)"/>
+                </g>
+                <g stroke="#F6BDCA" stroke-linecap="round" stroke-width=".5">
+                    <path d="M25.762 16.818c-2.61-3.934-5.844-3.828-10.247-8.968-2.488-2.906-4.27-5.035-5.848-4.02-1.578 1.015.092 5.335 1.231 6.53 1.14 1.194 3.603 3.538 4.856 5.477M6.062 10.832c-.68-1.606-1.1-2.829-.349-4.373.751-1.544 1.478-2.435 1.608-3.455.13-1.02-.083-2.516-1.524-2.547-1.44-.033-4.044 3.24-4.685 5.103-.642 1.862-1.54 4.713-.097 7.167 1.443 2.454 6.691 9.585 6.691 9.585" transform="translate(-645 -261) translate(645.5 261) translate(1 91.148)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(71 144.148)">
+                    <mask id="v3bzq4sw9ai" fill="#fff">
+                        <use xlink:href="#kjrup7620ag"/>
+                    </mask>
+                    <path fill="url(#lygasiom4ah)" d="M-0.935 27.358L33.457 27.358 33.457 -0.666 -0.935 -0.666z" mask="url(#v3bzq4sw9ai)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(71 144.148)">
+                    <mask id="xrlch3hjhal" fill="#fff">
+                        <use xlink:href="#kb00acee6aj"/>
+                    </mask>
+                    <path fill="url(#ewvnloxmeak)" d="M.937 1.823c-1.872 2.491 3.472 9.669 11.935 16.031 8.462 6.364 16.841 9.504 18.713 7.016 1.872-2.492-3.47-9.668-11.932-16.032C13.158 3.954 6.714.969 3.221.969c-1.06 0-1.848.275-2.284.854" mask="url(#xrlch3hjhal)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(20 123.148)">
+                    <mask id="tey8jm1ajao" fill="#fff">
+                        <use xlink:href="#7x46w0u9ram"/>
+                    </mask>
+                    <path fill="url(#tri9vhwk3an)" d="M0.729 66L79.461 66 79.461 -0.995 0.729 -0.995z" mask="url(#tey8jm1ajao)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(20 123.148)">
+                    <mask id="5tq1uil84ar" fill="#fff">
+                        <use xlink:href="#sifm4ggyqap"/>
+                    </mask>
+                    <path fill="url(#knbdu0fgeaq)" d="M.729 8.854C6.964 19.88 24.924 42.208 34.441 54.106 43.958 66 55.786 62.308 59.562 58.72c2.756-2.62 9.459-8.431 14.028-13.93l.011-.011c.318-.384 5.29-6.171 5.29-6.171l.57-.601c-2.157-2.587-5.194-5.451-8.809-8.17-4.327-3.253-8.628-5.657-12.052-6.902-1.339 1.543-3.361 3.86-4.994 5.631.002.004-.081.104-.077.107-.713.768-2.863 3.556-3.344 3.997-1.826 1.673-5.703-1.276-9.138-4.104C23.88 13.982 19.847 9.44 12.514 1.66 11.147.994 10.296.67 9.645.67 7.701.669 7.539 3.557.729 8.854" mask="url(#5tq1uil84ar)"/>
+                </g>
+                <g stroke="#F6BDCA" stroke-linecap="round" stroke-width=".5">
+                    <path d="M.61.406s-.044 7.145.942 9.26 4.438 4.268 4.438 4.268l13.74 8.92 4.375 6.983c16.144 21.884 26.777 35.448 31.9 40.691 7.684 7.864 18.747 7.56 27.492-2.23M72.53 42.893c-3.057 4.492-5.65 6.186-7.778 5.08" transform="translate(-645 -261) translate(645.5 261) translate(1 109.148)"/>
+                </g>
+                <g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(5 75.148)">
+                        <mask id="fjja67dr6at" fill="#fff">
+                            <use xlink:href="#6dszfhy6zas"/>
+                        </mask>
+                        <path fill="#FEFEFE" d="M.903 10.68c0-3.772 3.065-3.772 3.065-5.238V.914h5.005v4.42c0 1.574 3.278 1.574 3.278 5.345v10.522c0 1.847-1.805 4.111-5.674 4.111-3.867 0-5.58-2.203-5.67-3.998l-.003-.113L.903 10.68z" mask="url(#fjja67dr6at)"/>
+                    </g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(5 75.148)">
+                        <mask id="upj84vb3hav" fill="#fff">
+                            <use xlink:href="#okkisbf2jau"/>
+                        </mask>
+                        <path stroke="#FADEE5" d="M.903 10.68c0-3.77 3.065-3.77 3.065-5.238V.914h5.005v4.42c0 1.575 3.278 1.575 3.278 5.345v10.522c0 1.847-1.805 4.111-5.674 4.111-3.867 0-5.58-2.203-5.67-3.998l-.003-.113L.903 10.68z" mask="url(#upj84vb3hav)"/>
+                    </g>
+                </g>
+                <g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(10 78.148)">
+                        <mask id="l2nzv34wfax" fill="#fff">
+                            <use xlink:href="#6y8joy8tjaw"/>
+                        </mask>
+                        <path fill="#FEFEFE" d="M.442.751h2.27v14.753c0 .627-.51 1.135-1.135 1.135-.627 0-1.135-.508-1.135-1.135V.752z" mask="url(#l2nzv34wfax)"/>
+                    </g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(10 78.148)">
+                        <mask id="dgxvihw1paz" fill="#fff">
+                            <use xlink:href="#ipjws0apjay"/>
+                        </mask>
+                        <path stroke="#EC6975" d="M.442.751h2.27v14.753c0 .627-.51 1.135-1.135 1.135-.627 0-1.135-.508-1.135-1.135V.752z" mask="url(#dgxvihw1paz)"/>
+                    </g>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(7 83.148)">
+                    <mask id="mzkrq5b9daB" fill="#fff">
+                        <use xlink:href="#ubynka0saaA"/>
+                    </mask>
+                    <path fill="#EC6975" d="M-4.963 10.397L14.115 10.397 14.115 -4.709 -4.963 -4.709z" mask="url(#mzkrq5b9daB)"/>
+                </g>
+                <g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(10 81.148)">
+                        <mask id="440jdj4gxaD" fill="#fff">
+                            <use xlink:href="#nrscpa49jaC"/>
+                        </mask>
+                        <path fill="#FEFEFE" d="M.442.021h2.27v5.106c0 .314-.51.568-1.135.568-.627 0-1.135-.254-1.135-.568V.021z" mask="url(#440jdj4gxaD)"/>
+                    </g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(10 81.148)">
+                        <mask id="1v8i2zcsqaF" fill="#fff">
+                            <use xlink:href="#2jykjtsd8aE"/>
+                        </mask>
+                        <path stroke="#FADEE5" d="M.442.021h2.27v5.106c0 .314-.51.568-1.135.568-.627 0-1.135-.254-1.135-.568V.021z" mask="url(#1v8i2zcsqaF)"/>
+                    </g>
+                </g>
+                <g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(7 76.148)">
+                        <mask id="0z54ew8smaH" fill="#fff">
+                            <use xlink:href="#72fiy0dkbaG"/>
+                        </mask>
+                        <path fill="#FEFEFE" d="M.888.482h7.376v3.404c0 .94-1.65 1.702-3.687 1.702-2.038 0-3.688-.762-3.688-1.702V.482z" mask="url(#0z54ew8smaH)"/>
+                    </g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(7 76.148)">
+                        <mask id="ks7lhp9aiaJ" fill="#fff">
+                            <use xlink:href="#lfk2546wlaI"/>
+                        </mask>
+                        <path stroke="#FADEE5" d="M.888.482h7.376v3.404c0 .94-1.65 1.702-3.687 1.702-2.038 0-3.688-.762-3.688-1.702V.482z" mask="url(#ks7lhp9aiaJ)"/>
+                    </g>
+                </g>
+                <g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(7 74.148)">
+                        <mask id="k0ea3jewuaL" fill="#fff">
+                            <use xlink:href="#9gknolo50aK"/>
+                        </mask>
+                        <path fill="#FEFEFE" d="M4.577 4.184c2.037 0 3.688-.762 3.688-1.702S6.612.78 4.575.78C2.54.78.89 1.541.89 2.482c0 .94 1.65 1.702 3.688 1.702" mask="url(#k0ea3jewuaL)"/>
+                    </g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(7 74.148)">
+                        <mask id="udj85k5e4aN" fill="#fff">
+                            <use xlink:href="#trediobc1aM"/>
+                        </mask>
+                        <path stroke="#FADEE5" d="M4.577 4.184c2.037 0 3.688-.762 3.688-1.702S6.612.78 4.575.78C2.54.78.89 1.541.89 2.482c0 .94 1.65 1.702 3.688 1.702z" mask="url(#udj85k5e4aN)"/>
+                    </g>
+                </g>
+                <g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(10 71.148)">
+                        <mask id="54hk1kfnqaP" fill="#fff">
+                            <use xlink:href="#4kuie99oeaO"/>
+                        </mask>
+                        <path fill="#FEFEFE" d="M1.577.942c.626 0 1.135.508 1.135 1.135v2.836c0 .314-.51.57-1.136.57-.627 0-1.135-.256-1.135-.57V2.077C.442 1.45.95.942 1.577.942" mask="url(#54hk1kfnqaP)"/>
+                    </g>
+                    <g transform="translate(-645 -261) translate(645.5 261) translate(10 71.148)">
+                        <mask id="fcer8nr2xaR" fill="#fff">
+                            <use xlink:href="#meek2damgaQ"/>
+                        </mask>
+                        <path stroke="#FADEE5" d="M1.577.942c.626 0 1.135.508 1.135 1.135v2.836c0 .314-.51.57-1.136.57-.627 0-1.135-.256-1.135-.57V2.077C.442 1.45.95.942 1.577.942z" mask="url(#fcer8nr2xaR)"/>
+                    </g>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(7 85.148)">
+                    <mask id="u872kdtz7aT" fill="#fff">
+                        <use xlink:href="#67w6n98g7aS"/>
+                    </mask>
+                    <path fill="#EF8590" d="M-4.963 18.961L14.115 18.961 14.115 -4.156 -4.963 -4.156z" mask="url(#u872kdtz7aT)"/>
+                </g>
+                <g transform="translate(-645 -261) translate(645.5 261) translate(10 94.148)">
+                    <mask id="y0qq4f9peaV" fill="#fff">
+                        <use xlink:href="#azsbh25b3aU"/>
+                    </mask>
+                    <path fill="#FCE5D7" d="M-7.483 -1.17L12.272 -9.556 23.318 16.467 3.563 24.852z" mask="url(#y0qq4f9peaV)"/>
+                </g>
+                <path stroke="#F6BDCA" stroke-linecap="round" stroke-width=".5" d="M49.72 142.114c.172.171-14.422-13.193-16.896-17.764-2.289-4.23-3.154-12.005-6.062-16.384-2.61-3.935-5.844-3.829-10.247-8.969-2.488-2.905-4.27-5.035-5.848-4.019-1.578 1.014.092 5.335 1.231 6.53 1.14 1.194 3.603 3.538 4.856 5.477 1.253 1.938 2.688 4.062 2.763 4.294.075.231.072.656-.966.398-1.038-.259-2.345-.598-3.426-1.144-1.08-.546-1.977-1.189-3.386-2.724-1.41-1.535-3.995-4.224-4.677-5.829" transform="translate(-645 -261) translate(645.5 261)"/>
+            </g>
+        </g>
+    </g>
+</svg>
