@@ -1,12 +1,24 @@
 version: 2.1
 commands:
-  
+
+orbs:
+  aws-cli: circleci/aws-cli@3.1
+ 
 executors:
   default_exec:
     docker:
       - image: circleci/node:13.8.0
 
 jobs:
+  aws-cli-cred-setup:
+    executor: aws-cli/default
+    steps:
+      - aws-cli/setup:
+          aws-access-key-id: AWS_ACCESS_KEY
+          aws-secret-access-key: AWS_SECRET_KEY
+          aws-region: AWS_REGION
+      - run: echo "setting up aws cli?"
+
   build:
     environment:
       NEW_NAME: Khairah
@@ -16,42 +28,53 @@ jobs:
       - run:
           name: 'Build step'
           environment:
-            buildId: 1
+            BUILD_ID: 1
           command: npm install
       - save_cache:
           key: 'npm-packages'
           paths: 
             - /node_modules
-      - run: npm build
-
-  test:
-    executor: default_exec
-    steps:
-      - checkout
-      - restore_cache:
-          key: "npm-packages"
       - run:
           command: |
-            npm install
-            npm test --passWithNoTests
+            echo "random file to save" >> hello.txt
+            aws s3 mb s3://178472627685-testbucket
+            aws s3 cp hello.txt s3://178472627685-testbucket
+            echo "successful build - $BUILD_ID"
+    
+
+  # test:
+  #   executor: default_exec
+  #   steps:
+  #     - checkout
+  #     - restore_cache:
+  #         key: "npm-packages"
+  #     - run:
+  #         command: |
+  #           echo "does this echo? - $CIRCLE_WORKFLOW_ID by $MY_NAME"
+  #           npm install
+  #           npm test --passWithNoTests
   
-  analyse:
-    executor: default_exec
-    steps:
-      - checkout
-      - restore_cache:
-          key: "npm-packages"
-      - run:
-          command: npm audit fix
+  # analyse:
+  #   executor: default_exec
+  #   steps:
+  #     - checkout
+  #     - restore_cache:
+  #         key: "npm-packages"
+  #     - run:
+  #         command: npm audit fix
 
 workflows:
   workflow-1:
     jobs:
-      - build
-      - test:
+      - aws-cli-cred-setup:
+          context: aws
+      - build:
           requires:
-            - build
-      - analyse:
-          requires:
-            - test
+            - aws-cli-cred-setup
+      # - test:
+      #     requires:
+      #       - build
+      # - analyse:
+      #     requires:
+      #       - test
   
