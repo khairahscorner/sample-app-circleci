@@ -22,7 +22,7 @@ jobs:
           key: 'npm-packages'
           paths: 
             - /node_modules
-      - run: npm start
+      - run: npm build
 
   test:
     executor: default_exec
