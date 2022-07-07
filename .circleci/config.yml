@@ -22,11 +22,13 @@ jobs:
             echo "setting up aws cli?"
             echo "random file to save" >> hello.txt
             BUCKET_EXISTS=$(aws s3api head-bucket --bucket s3://178472627685-testbucket 2>&1 || true)
-            if [ -z "$BUCKET_EXISTS" ]; then
+            if [[ -z "$BUCKET_EXISTS" ]]
+            then
               echo "Bucket exists"
             else
               echo "Bucket does not exist"
               aws s3 mb s3://178472627685-testbucket
+            fi
             aws s3 cp hello.txt s3://178472627685-testbucket           
             echo successful build - $MY_NAME
 
