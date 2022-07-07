@@ -17,29 +17,35 @@ jobs:
           aws-access-key-id: AWS_ACCESS_KEY
           aws-secret-access-key: AWS_SECRET_KEY
           aws-region: AWS_REGION
-      - run: echo "setting up aws cli?"
-
-  build:
-    environment:
-      NEW_NAME: Khairah
-    executor: default_exec
-    steps:
-      - checkout
-      - run:
-          name: 'Build step'
-          environment:
-            BUILD_ID: 1
-          command: npm install
-      - save_cache:
-          key: 'npm-packages'
-          paths: 
-            - /node_modules
       - run:
           command: |
+            echo "setting up aws cli?"
             echo "random file to save" >> hello.txt
             aws s3 mb s3://178472627685-testbucket
             aws s3 cp hello.txt s3://178472627685-testbucket
-            echo "successful build - $BUILD_ID"
+            echo "successful build - $MY_NAME"
+
+  # build:
+  #   environment:
+  #     NEW_NAME: Khairah
+  #   executor: default_exec
+  #   steps:
+  #     - checkout
+  #     - run:
+  #         name: 'Build step'
+  #         environment:
+  #           BUILD_ID: 1
+  #         command: npm install
+  #     - save_cache:
+  #         key: 'npm-packages'
+  #         paths: 
+  #           - /node_modules
+  #     - run:
+  #         command: |
+  #           echo "random file to save" >> hello.txt
+  #           aws s3 mb s3://178472627685-testbucket
+  #           aws s3 cp hello.txt s3://178472627685-testbucket
+  #           echo "successful build - $BUILD_ID"
     
 
   # test:
@@ -67,9 +73,9 @@ workflows:
   workflow-1:
     jobs:
       - aws-cli-cred-setup
-      - build:
-          requires:
-            - aws-cli-cred-setup
+      # - build:
+      #     requires:
+      #       - aws-cli-cred-setup
       # - test:
       #     requires:
       #       - build
